@@ -1,0 +1,5 @@
+model,weight,auc_valid,auc_test
+popularity,0,,0.654486798883805
+household habit,0,,0.7636324820139777
+habit + lift,2,0.8076956175912441,0.8096375171004823
+habit + taste-adjusted association,16,0.8014267638203368,0.8026913147347527
